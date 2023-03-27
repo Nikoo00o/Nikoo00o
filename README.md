@@ -1,7 +1,5 @@
 ### Stats
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikoo00o&count_private=true&theme=radical" />
-</a>
+![Nikoo00o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikoo00o&show_icons=true&theme=radical)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoo00o&layout=compact" />
