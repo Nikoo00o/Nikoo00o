@@ -1,7 +1,7 @@
 ### Stats
-![Nikoo00o's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikoo00o&show_icons=true&theme=radical)
+![Profile stats](https://github-readme-stats.vercel.app/api?username=Nikoo00o&show_icons=true&theme=radical)
 
-![Nikoo00o's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nikoo00o&show_icons=true&theme=radical&layout=compact)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=Nikoo00o&show_icons=true&theme=radical&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=Nikoo00o&style=for-the-badge">
 
