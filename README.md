@@ -25,3 +25,5 @@
 ### My newest Projects 
 
 [![Nota](https://github-readme-stats.vercel.app/api/pin/?username=Nikoo00o&theme=radical&repo=Nota)](https://github.com/Nikoo00o/Nota)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
