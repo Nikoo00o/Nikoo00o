@@ -24,4 +24,4 @@
 
 ### My newest Projects 
 
-[![Nota](https://github-readme-stats.vercel.app/api/pin/?username=Nikoo00o&theme=radical&repo=Nota)](https://github.com/Nikoo00o/Nota)
+[![Nota](https://github-readme-stats.vercel.app/api/pin/?username=Nikoo00o&theme=radical&repo=Not)](https://github.com/Nikoo00o/Nota)
