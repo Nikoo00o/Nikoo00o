@@ -22,6 +22,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### My newest Projects 
+### My Projects 
 
 [![Nota](https://github-readme-stats.vercel.app/api/pin/?username=Nikoo00o&theme=radical&repo=Nota)](https://github.com/Nikoo00o/Nota)
+
+[![Nota](https://github-readme-stats.vercel.app/api/pin/?username=Nikoo00o&theme=radical&repo=Clockwork)](https://github.com/Nikoo00o/Clockwork)
